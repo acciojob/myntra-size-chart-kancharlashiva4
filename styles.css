@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+table{
+	borde-style:none;
+	box-sizing:content-box;
+	color:white;
+	font-family: 'Roboto','Arial',sans-serif;
+    font-size: 10px;
+	
+}
+th{
+	background-color:indianred;
+}
